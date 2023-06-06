@@ -51,7 +51,7 @@ apps:
       
 parts:
   terminator:
-    source:
+    source: https://github.com/gnome-terminator/terminator
     source-type: git
     plugin: python
         
