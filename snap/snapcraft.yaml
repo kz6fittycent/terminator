@@ -46,8 +46,6 @@ license: GPL-2.0
 apps: 
   terminator:
     command: bin/terminator
-    extensions:
-      - gnome-3-38 
       
 parts:
   terminator:
